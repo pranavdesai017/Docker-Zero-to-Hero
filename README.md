@@ -255,7 +255,7 @@ This message shows that your installation appears to be working correctly.
 ### Clone this repository and move to example folder
 
 ```
-git clone https://github.com/iam-veeramalla/Docker-Zero-to-Hero
+git clone [https://github.com/pranavdesai017/Docker-Zero-to-Hero.git]
 cd  examples
 ```
 
@@ -281,7 +281,7 @@ Login Succeeded
 You need to change the username accoringly in the below command
 
 ```
-docker build -t abhishekf5/my-first-docker-image:latest .
+docker build -t pranavdesai017017/my-first-docker-image:latest .
 ```
 
 Output of the above command
